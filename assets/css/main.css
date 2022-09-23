@@ -6,7 +6,6 @@ https://templatemo.com/tm-531-reflux
 
 */
 
-@import url(fontawesome.css);
 @import url("https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900");
 body {
     font-family: 'Lato', sans-serif;
@@ -614,21 +613,6 @@ figure.snip1321 a {
   bottom: 0;
   z-index: 1;
 }
-figure.snip1321:hover figcaption,
-figure.snip1321.hover figcaption {
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
-  opacity: 1;
-  -webkit-transition-delay: 0.2s;
-  transition-delay: 0.2s;
-}
-figure.snip1321:hover:after,
-figure.snip1321.hover:after {
-  -webkit-transform: rotateX(0);
-  transform: rotateX(0);
-  opacity: 0.9;
-}
-
 
 /* Contact Me */
 
